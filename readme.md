@@ -55,5 +55,5 @@ snowflake.sql
 ```
 
 ## Data Reporting and Insights (Tableau)
-![courses-analysis](courses-analysis.png)
-![learner-analysis](learner-analysis.png)
+![courses-analysis](https://github.com/miaaaalu/edX-Course-Analysis-and-Reporting/blob/master/courses-analysis.png?raw=true)
+![learner-analysis](https://github.com/miaaaalu/edX-Course-Analysis-and-Reporting/blob/master/learner-analysis.png?raw=true)
